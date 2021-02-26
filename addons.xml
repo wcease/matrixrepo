@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
 <addon id="plugin.video.MEUADDON.Matrix"
        name="[COLOR white][B]MEUADDON MATRIX[/B][/COLOR]"
        version="1.0.0"
@@ -29,8 +29,6 @@
     <platform>all</platform>
   </extension>
 </addon>
-
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.mundotorrent"
        name="[COLOR maroon][B]MUNDO TORRENT[/B][/COLOR]"
        version="1.0.0"
@@ -54,3 +52,4 @@
     <platform>all</platform>
   </extension>
 </addon>
+</addons>
