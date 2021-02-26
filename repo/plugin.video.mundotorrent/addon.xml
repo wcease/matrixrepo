@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.mundotorrent"
+       name="[COLOR maroon][B]MUNDO TORRENT[/B][/COLOR]"
+       version="1.0.0"
+       provider-name="by MUNDOTORRENT">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.simplejson"/>
+    <import addon="script.module.kodi-six" />			
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">MUNDO TORRENT</summary>
+    <description lang="en">MUNDO TORRENT é um addon torrents gratuito.</description>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+    <platform>all</platform>
+  </extension>
+</addon>
