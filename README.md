@@ -1,4 +1,4 @@
-# <a href="repository.mundotorrent.zip">DOWNLOADDO REPOSITÓRIO</a>
+# <a href="repository.mundotorrent.zip">DOWNLOAD DO REPOSITÓRIO</a>
 
 Instruções para a adição no gestor:
 
