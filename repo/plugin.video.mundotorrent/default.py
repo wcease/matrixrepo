@@ -43,7 +43,7 @@ desc_favoritos = 'Adicione Itens aos Favoritos, pressionando OK do controle ou c
 playlist_command = '$lsname'
 dialog_playlist = 'Selecione um item'
 useragent = {'User-Agent' : 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 537.40'}
-url_principal = 'https://pastebin.com/raw/zszKKBxm'
+url_principal = 'https://raw.githubusercontent.com/wcease/mundotorrents/master/18rrLhQRjBMA3gfyDeZAN6LC9xo1GPDDQT'
 
 if sys.argv[1] == 'limparFavoritos':
     Path = xbmc.translatePath(xbmcaddon.Addon().getAddonInfo('profile')).decode("utf-8")
